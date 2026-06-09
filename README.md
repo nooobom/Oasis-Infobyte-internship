@@ -49,4 +49,4 @@ I would like to thank **Oasis Infobyte** for providing this internship opportuni
 ## Author
 
 **Om**  
-SYBSc IT Student
+Aspirin IT Professional
